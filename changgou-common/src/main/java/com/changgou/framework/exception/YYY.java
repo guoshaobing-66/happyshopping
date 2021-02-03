@@ -15,4 +15,5 @@ public class YYY {
     int f=0;
     int w=0;
 int g=0;
+    int h=0;
 }
