@@ -10,5 +10,6 @@ package com.changgou.framework.exception;
 public class YYY {
     int a=0;
   int c=0;
+  int d=0;
 
 }
