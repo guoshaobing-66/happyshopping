@@ -17,7 +17,5 @@ public class DDD {
     int y=0;
     int u=0;
     int r=0;
-    int zz=0;
     int rr=0;
-    int aa=0;
 }
