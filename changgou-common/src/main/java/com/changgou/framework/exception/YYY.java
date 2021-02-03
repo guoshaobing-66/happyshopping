@@ -8,4 +8,5 @@ package com.changgou.framework.exception;
  * @Version 2.1
  **/
 public class YYY {
+  int c=0;
 }
