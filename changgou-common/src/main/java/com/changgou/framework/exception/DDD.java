@@ -10,4 +10,5 @@ package com.changgou.framework.exception;
 public class DDD {
     int a=0;
     int b=0;
+    int z=0;
 }
