@@ -21,4 +21,5 @@ public class DDD {
     int rr=0;
 
 int bb=0;
+    int cc=0;
 }
