@@ -22,4 +22,7 @@ public class DDD {
 
 int bb=0;
     int cc=0;
+int dd=0;
+
+
 }
