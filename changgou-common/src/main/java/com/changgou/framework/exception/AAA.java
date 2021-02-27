@@ -8,5 +8,5 @@ package com.changgou.framework.exception;
  * @Version 2.1
  **/
 public class AAA {
-
+int c=0;
 }
