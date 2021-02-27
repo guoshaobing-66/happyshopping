@@ -35,6 +35,7 @@ public class FastDFSClient {
      * @return java.lang.String[]
      **/
     public static String[] uploadFile(FastDFSFile fastDFSFile){
+        int a;
 
         try {
             // 取出附件信息
