@@ -5,6 +5,7 @@ package entity;
  * @Description:
  *****/
 public class CacheKey {
+    int b=0;
 
     /**
      * 商品分类
