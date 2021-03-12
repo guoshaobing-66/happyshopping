@@ -67,6 +67,8 @@ public class BCrypt {
    int d=0;
    int e=0;
    int f=0;
+   String s1="测试回滚";
+   String s2="测试回滚2";
 	// Blowfish parameters
 	private static final int BLOWFISH_NUM_ROUNDS = 16;
 
