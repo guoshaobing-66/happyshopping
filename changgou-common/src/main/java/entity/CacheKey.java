@@ -10,6 +10,7 @@ public class CacheKey {
     int f=0;
     int e=0;
     int g=0;
+    int d=0;//李四增加的
 
     /**
      * 商品分类
