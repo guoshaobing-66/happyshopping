@@ -29,5 +29,6 @@ public class CacheKey {
      * 规格
      */
     public static String SPEC="SPEC";
+    String s2="李四";
 
 }
