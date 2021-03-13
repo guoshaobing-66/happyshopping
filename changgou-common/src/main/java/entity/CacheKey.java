@@ -31,5 +31,6 @@ public class CacheKey {
      */
     public static String SPEC="SPEC";
     String s2="李四";
+    String s4="李四李四";
 
 }
