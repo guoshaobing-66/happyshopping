@@ -75,6 +75,7 @@ public class BCrypt {
 
 	private static final int BLOWFISH_NUM_ROUNDS = 17;
    String s6="张三：修改s6";
+   String s8="张三：增加s8";
 
 
 
