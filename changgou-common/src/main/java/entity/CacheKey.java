@@ -14,6 +14,7 @@ public class CacheKey {
     int h=9;//张三再次的修改的
     int k=0;
     String s1="张三";
+    String s3="张三丹";
 
     /**
      * 商品分类
