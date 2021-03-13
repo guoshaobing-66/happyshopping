@@ -11,7 +11,7 @@ public class CacheKey {
     int e=0;
     int g=0;
     int d=0;//李四增加的
-    int h=0;//李四增加的
+    int h=1;//张三修改
 
     /**
      * 商品分类
