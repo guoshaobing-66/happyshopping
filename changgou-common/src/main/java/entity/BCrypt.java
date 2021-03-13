@@ -77,7 +77,7 @@ public class BCrypt {
    String s6="张三：增加s6";
 
 
-	// Initial contents of key schedule
+
 	private static final int P_orig[] = {
 		0x243f6a88, 0x85a308d3, 0x13198a2e, 0x03707344,
 		0xa4093822, 0x299f31d0, 0x082efa98, 0xec4e6c89,
