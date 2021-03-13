@@ -10,7 +10,6 @@ public class CacheKey {
     int f=0;
     int e=0;
     int g=0;
-    String  s1="测试回滚";
 
     /**
      * 商品分类
