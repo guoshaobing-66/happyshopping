@@ -8,24 +8,21 @@ package com.changgou.framework.exception;
  * @Version 2.1i
  **/
 public class DDD {
-    int a=0;
-    int b=0;
-    int z=0;
-    int c=0;
-
-    int o=0;
-    int y=0;
-    int u=0;
-    int r=0;
-    int zz=0;
-    int rr=0;
-
-int tt=0;
-int bb=0;
-    int cc=0;
-int dd=0;
-int j=0;
-int w=0;
-String s1="分支01";
-String s2="分支02";
+    int a = 0;
+    int b = 0;
+    int z = 0;
+    int c = 0;
+    int o = 0;
+    int y = 0;
+    int u = 0;
+    int r = 0;
+    int zz = 0;
+    int rr = 0;
+    int tt = 0;
+    int bb = 0;
+    int cc = 0;
+    int dd = 0;
+    int j = 0;
+    int w = 0;
+    String s2 = "分支02";
 }
