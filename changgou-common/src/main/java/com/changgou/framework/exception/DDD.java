@@ -21,11 +21,11 @@ public class DDD {
     int rr=0;
 
 int tt=0;
-
-
 int bb=0;
     int cc=0;
 int dd=0;
 int j=0;
 int w=0;
+String s1="分支01";
+String s2="分支02";
 }
