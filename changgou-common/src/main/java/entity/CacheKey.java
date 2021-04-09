@@ -33,5 +33,6 @@ public class CacheKey {
     String s2="李四";
     String s4="李四李四";
     String s5="郭少兵";
+    int a=0;
 
 }
